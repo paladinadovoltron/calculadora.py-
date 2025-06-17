@@ -3,5 +3,4 @@
 Projeto simples feito no Replit e subido para o GitHub.  
 
 ## Como usar  
-Execute no terminal:  
-```bash  
+https://replit.com/@laysamnzs/CornyEffectiveSysadmin#main.py
